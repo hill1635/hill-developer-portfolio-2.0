@@ -1,0 +1,38 @@
+.margin-200 {
+    margin-bottom: 200px;
+}
+
+.margin-100 {
+    margin-top: 100px;
+}
+
+.teal-text {
+    color: #129270;
+}
+
+.teal-background {
+    background-color: #129270;
+}
+
+.profile-pic {
+    max-height: 250px;
+    max-width: 250px;
+    float: left;
+}
+
+.button {
+    background-color: #129270;
+    color: white;
+    border: none;
+}
+
+.drink-up {
+    max-height: 300px;
+    max-width: 300px;
+    margin: 20px;
+}
+
+a {
+    text-align: center;
+    padding-bottom: 10px;
+}
